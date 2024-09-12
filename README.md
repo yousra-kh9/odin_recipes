@@ -1,2 +1,2 @@
 # odin_recipes
-# Recipe website
+Recipe website
